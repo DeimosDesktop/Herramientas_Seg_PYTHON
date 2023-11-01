@@ -1,5 +1,5 @@
 import socket
-import os, subprocess
+import os, import subprocess
 host = "127.0.0.1"
 port = 8050
 cliente=host, port
